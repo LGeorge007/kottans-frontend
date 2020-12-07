@@ -8,7 +8,7 @@
 ## General
 0. [X] [Git Basics](#git-basics)
 1. [X] [Linux CLI & Networking](#Linux-CLI-and-Networking)
-2. [ ] [VCS GitHub & Collaboration](#VCS-GitHub-and-Collaboration)
+2. [Х] [VCS GitHub & Collaboration](#VCS-GitHub-and-Collaboration)
 		
 ## Front-End Basics
 3. [X] [Intro to HTML & CSS](#Intro-to-HTML-and-CSS)

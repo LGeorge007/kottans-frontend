@@ -18,7 +18,7 @@
 7. [ ] [Document Object Model - practice](#Document-Object-Model-practice)
 
 ## Advanced Topics
-8. [ ] [Building a Tiny JS World (pre-OOP) - practice](#Building-a-Tiny-JS-World-practice)
+8. [X] [Building a Tiny JS World (pre-OOP) - practice](#Building-a-Tiny-JS-World-practice)
 9. [ ] [Object oriented JS - practice](#Object-oriented-JS-practice)
 10. [ ] [OOP exercise - practice](#OOP-exercise-practice)
 11. [ ] [Offline Web Applications](#Offline-Web-Applications)

@@ -181,6 +181,21 @@ I have learned all common function to work with arrays, strings, numbers and I w
 
 ### ***Building a Tiny JS World practice***
 ---
+A Tiny JS World — #done
+
+[Demo](https://LGeorge007.github.io/a-tiny-JS-world)
+[Code base](https://github.com/LGeorge007/a-tiny-JS-world)
+
+**what was new:**
+Using destructuring in practice.
+Didn't know that conditions can be used inside the array.
+
+**what surprised me:**
+Using an array to output complex strings.
+
+**what I'm going to use in future:**
+I will use an array to output complex strings. This entry is more readable and convenient.
+I will use destructuring for objects.
 
 
 

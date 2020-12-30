@@ -210,8 +210,9 @@ Everything new that I learned in this task.
 ---
 A Tiny JS World — #done
 
-<p>[Demo](https://LGeorge007.github.io/a-tiny-JS-world)</p>
-<p>[Code base](https://github.com/LGeorge007/a-tiny-JS-world)</p>
+[Demo](https://LGeorge007.github.io/a-tiny-JS-world)
+<p></p>>
+[Code base](https://github.com/LGeorge007/a-tiny-JS-world)
 
 **what was new:**
 Using destructuring in practice.
@@ -231,6 +232,7 @@ Object oriented JS — #done
 
 <details>
    	<summary>Proofs</summary>
+
 ![Object oriented JS - practice](./task_9_Object_oriented_JS_practice/codewars.png)
 ![Object oriented JS - practice](./task_9_Object_oriented_JS_practice/object-oriented-JS_1.png)
 ![Object oriented JS - practice](./task_9_Object_oriented_JS_practice/object-oriented-JS_2.png)

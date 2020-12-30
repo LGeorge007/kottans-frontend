@@ -15,12 +15,12 @@
 4. [X] [Responsive Web Design](#Responsive-Web-Design)
 5. [X] [HTML & CSS - practice](#HTML-and-CSS-Practice)
 6. [X] [JavaScript Basics](#JavaScript-Basics)
-7. [ ] [Document Object Model - practice](#Document-Object-Model-practice)
+7. [X] [Document Object Model - practice](#Document-Object-Model-practice)
 
 ## Advanced Topics
 8. [X] [Building a Tiny JS World (pre-OOP) - practice](#Building-a-Tiny-JS-World-practice)
-9. [ ] [Object oriented JS - practice](#Object-oriented-JS-practice)
-10. [ ] [OOP exercise - practice](#OOP-exercise-practice)
+9. [X] [Object oriented JS - practice](#Object-oriented-JS-practice)
+10. [X] [OOP exercise - practice](#OOP-exercise-practice)
 11. [ ] [Offline Web Applications](#Offline-Web-Applications)
 12. [ ] [Memory pair game - real project!](#Memory-pair-game)
 13. [ ] [Website Performance Optimization](#Website-Performance-Optimization)
@@ -186,6 +186,23 @@ I have learned all common function to work with arrays, strings, numbers and I w
 
 ### ***Document Object Model practice***
 ---
+<details>
+   	<summary>Proofs</summary>
+
+![Document Object Model - practice](./task_7_DOM_practice/algoritm1.png)
+![Document Object Model - practice](./task_7_DOM_practice/udacity_DOM2.png)
+</details>
+I liked this task very much. 
+
+**what was new:**
+I learned in practice a lot of new InnerHTML, insertAdjacentHTML, appendChild(), createElement(), addEventListener().
+Template strings '$ {variable}'. Methods of array filter() and find(). Side menu and media screen.
+
+**what surprised me:**
+I didn't think that you can handle the entire rendering of the page using only JS.
+
+**what I'm going to use in future:**
+Everything new that I learned in this task.
 
 
 ### ***Building a Tiny JS World practice***
@@ -205,7 +222,6 @@ Using an array to output complex strings.
 **what I'm going to use in future:**
 I will use an array to output complex strings. This entry is more readable and convenient.
 I will use destructuring for objects.
-
 
 
 ### ***Object oriented JS practice***

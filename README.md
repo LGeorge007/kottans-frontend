@@ -192,6 +192,7 @@ I have learned all common function to work with arrays, strings, numbers and I w
 ![Document Object Model - practice](./task_7_DOM_practice/algoritm1.png)
 ![Document Object Model - practice](./task_7_DOM_practice/udacity_DOM2.png)
 </details>
+
 I liked this task very much. 
 
 **what was new:**
@@ -209,8 +210,8 @@ Everything new that I learned in this task.
 ---
 A Tiny JS World — #done
 
-[Demo](https://LGeorge007.github.io/a-tiny-JS-world)
-[Code base](https://github.com/LGeorge007/a-tiny-JS-world)
+<p>[Demo](https://LGeorge007.github.io/a-tiny-JS-world)</p>
+<p>[Code base](https://github.com/LGeorge007/a-tiny-JS-world)</p>
 
 **what was new:**
 Using destructuring in practice.
@@ -226,11 +227,37 @@ I will use destructuring for objects.
 
 ### ***Object oriented JS practice***
 ---
+Object oriented JS — #done
 
+<details>
+   	<summary>Proofs</summary>
+![Object oriented JS - practice](./task_9_Object_oriented_JS_practice/codewars.png)
+![Object oriented JS - practice](./task_9_Object_oriented_JS_practice/object-oriented-JS_1.png)
+![Object oriented JS - practice](./task_9_Object_oriented_JS_practice/object-oriented-JS_2.png)
+</details>
+
+**what was new:**
+Using objects and prototypal inheritance for real objects.
+
+**what surprised me:**
+I really liked looking for a solution, what objects need to be created.
+
+**what I'm going to use in future:**
+objects and prototypal inheritance, destructuring.
 
 
 ### ***OOP exercise practice***
 ---
+OOP exercise — #done
+
+**what was new:**
+
+
+**what surprised me:**
+
+
+**what I'm going to use in future:**
+
 
 
 

@@ -211,7 +211,7 @@ Everything new that I learned in this task.
 A Tiny JS World — #done
 
 [Demo](https://LGeorge007.github.io/a-tiny-JS-world)
-<p></p>>
+<p></p>
 [Code base](https://github.com/LGeorge007/a-tiny-JS-world)
 
 **what was new:**

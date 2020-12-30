@@ -212,7 +212,7 @@ A Tiny JS World — #done
 
 [Demo](https://LGeorge007.github.io/a-tiny-JS-world)
 <p></p>
-[Code base](https://github.com/LGeorge007/a-tiny-JS-world)
+[Code_base](https://github.com/LGeorge007/a-tiny-JS-world)
 
 **what was new:**
 Using destructuring in practice.

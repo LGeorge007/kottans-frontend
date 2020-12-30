@@ -13,7 +13,7 @@
 ## Front-End Basics
 3. [X] [Intro to HTML & CSS](#Intro-to-HTML-and-CSS)
 4. [X] [Responsive Web Design](#Responsive-Web-Design)
-5. [ ] [HTML & CSS - practice](#HTML-and-CSS-Practice)
+5. [X] [HTML & CSS - practice](#HTML-and-CSS-Practice)
 6. [X] [JavaScript Basics](#JavaScript-Basics)
 7. [ ] [Document Object Model - practice](#Document-Object-Model-practice)
 
@@ -139,9 +139,20 @@ I liked flexboxfroggy game!
 media queries, flexbox css properties and relative sizes.
 
 
-
 ### ***HTML and CSS Practice***
 ---
+In general, the task is not difficult but interesting. I did it first using id as I found on the Internet.
+After I reviewed the video for this task, and I realized how to stylize checkboxes. Also saw the use of summary and details tags in practice.
+I learned that you can write 2 pseudo-classes in the same CSS class. Studied the types of selectors.
+
+**what was new:**
+styling checkboxes, appearance property, pseudoclasses focus, checked, using keybords to cite navigation.
+
+**what surprised me:**
+It was interesting to study the styling of checkboxes.
+
+**what I'm going to use in future:**
+styling checkboxes, appearance property, using pseudoclasses for creating condition in CSS.
 
 
 ### ***JavaScript Basics***
@@ -173,10 +184,8 @@ Also arrow function, default pararmetrs, destructuring,  ternary operator.
 I have learned all common function to work with arrays, strings, numbers and I will use they.
 
 
-
 ### ***Document Object Model practice***
 ---
-
 
 
 ### ***Building a Tiny JS World practice***

@@ -141,6 +141,11 @@ media queries, flexbox css properties and relative sizes.
 
 ### ***HTML and CSS Practice***
 ---
+HTML and CSS Practice—#done
+
+[Demo](https://lgeorge007.github.io/hooli-style-popup/).
+[Code base](https://github.com/LGeorge007/hooli-style-popup).
+
 In general, the task is not difficult but interesting. I did it first using id as I found on the Internet.
 After I reviewed the video for this task, and I realized how to stylize checkboxes. Also saw the use of summary and details tags in practice.
 I learned that you can write 2 pseudo-classes in the same CSS class. Studied the types of selectors.
@@ -186,12 +191,17 @@ I have learned all common function to work with arrays, strings, numbers and I w
 
 ### ***Document Object Model practice***
 ---
+Document Object Model practice—#done
+
 <details>
    	<summary>Proofs</summary>
 
 ![Document Object Model - practice](./task_7_DOM_practice/algoritm1.png)
 ![Document Object Model - practice](./task_7_DOM_practice/udacity_DOM2.png)
 </details>
+
+[Demo](https://LGeorge007.github.io/DOM-practice/).
+[Code base](https://github.com/LGeorge007/DOM-practice).
 
 I liked this task very much. 
 
@@ -211,7 +221,6 @@ Everything new that I learned in this task.
 A Tiny JS World — #done
 
 [Demo](https://LGeorge007.github.io/a-tiny-JS-world).
-
 [Code base](https://github.com/LGeorge007/a-tiny-JS-world).
 
 **what was new:**
@@ -229,6 +238,8 @@ I will use destructuring for objects.
 ### ***Object oriented JS practice***
 ---
 Object oriented JS — #done
+
+[Demo](https://lgeorge007.github.io/object-oriented-JS/)
 
 <details>
    	<summary>Proofs</summary>
@@ -251,6 +262,9 @@ objects and prototypal inheritance, destructuring.
 ### ***OOP exercise practice***
 ---
 OOP exercise — #done
+
+[Demo](https://LGeorge007.github.io/oop-practice)
+[Code base](https://github.com/LGeorge007/oop-practice)
 
 **what was new:**
 Classes, inheritance from parent class, using super().

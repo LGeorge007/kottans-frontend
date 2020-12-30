@@ -210,9 +210,9 @@ Everything new that I learned in this task.
 ---
 A Tiny JS World — #done
 
-[Demo](https://LGeorge007.github.io/a-tiny-JS-world)
-<p></p>
-[Code_base](https://github.com/LGeorge007/a-tiny-JS-world)
+[Demo](https://LGeorge007.github.io/a-tiny-JS-world).
+
+[Code base](https://github.com/LGeorge007/a-tiny-JS-world).
 
 **what was new:**
 Using destructuring in practice.
@@ -253,13 +253,15 @@ objects and prototypal inheritance, destructuring.
 OOP exercise — #done
 
 **what was new:**
-
+Classes, inheritance from parent class, using super().
+pattern array.ForEach(el => new SomeObject(el));
 
 **what surprised me:**
-
+Nothing surprised me. 
+I liked prototypal inheritance more than Classes.
 
 **what I'm going to use in future:**
-
+Everything new that I learned in this task.
 
 
 
